@@ -22,7 +22,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Kubernetes" width="46px" src="https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png" />
+<img align="left" alt="Kubernetes" width="46px" src="https://lh3.googleusercontent.com/proxy/SyUhYa0-UcGrX1WW61YYv4206U0LpxxAR7ts_ImGE5BEx2ZFhWnD7jnoDHZ9DEIW9T8epJzaF8yFiY9NiyS6EfBkdkw8eGPaqDLhCQJFlCoveZmkTBFfARfTW-rbCa4B4Y20lOmI" />
 <img align="left" alt="C" width="26px" src="https://camo.githubusercontent.com/8162000933b0ce3cb7bfd29d09a79acee7ce0f2ecb56990ed38b687ab11936e9/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31392f435f4c6f676f2e706e67" />
 <img align="left" alt="C++" width="26px" src="https://camo.githubusercontent.com/2090234f4e9b46d88f64683bd21942cf6755171afd5d0637a4fd5b77b237d1f4/68747470733a2f2f6272616e64736c6f676f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f7468756d62732f632d6c6f676f2d766563746f722e737667" />
 <img align="left" alt="QT" width="26px" src="https://e7.pngegg.com/pngimages/794/1022/png-clipart-qt-creator-qt-quick-the-qt-company-posted-write-text-trademark-thumbnail.png" />
