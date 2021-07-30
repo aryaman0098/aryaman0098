@@ -30,14 +30,6 @@
 <img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />
 <img align="left" alt="Sklearn" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" />
 
-<br />
-<br />
-
-### GitHub Stats:
-
-![Aryaman's Github Stats](https://github-readme-stats.vercel.app/api?username=aryaman0098)
-
-
 [website]: https://aryaman0098.github.io/aryamanMishra/
 [twitter]: https://twitter.com/Aryaman0098
 [instagram]: https://www.instagram.com/aryaman_mishra_98/
