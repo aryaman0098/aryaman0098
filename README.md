@@ -29,7 +29,7 @@
 <img style = "padding-right:3px;" align="left" alt="Python" width="26px" src="https://image.flaticon.com/icons/png/512/919/919852.png" />
 <img style = "padding-right:3px;" align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
 <img style = "padding-right:3px;" align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />
-<img style = "padding-right:3px;" align="left" alt="Sklearn" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" />
+<img align="left" alt="Sklearn" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="OpenCV" width="26px" src="https://www.pngitem.com/pimgs/m/152-1527173_opencv-logo-png-transparent-png.png" />
 
 <br />
