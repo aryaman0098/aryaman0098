@@ -5,7 +5,7 @@
 - 🔭 Have a great interest in Machine Learning and Deep Learning!
 - 🌱 I’m currently learning about Full Stack Development in MERN. Also exploring the world of Cloud Computing.
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play badminton 😄
+- ⚡ Fun fact: I love to draw, play badminton and do competetive programming in my free time😄
 
 ### Connect with me:
 
