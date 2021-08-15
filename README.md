@@ -31,6 +31,8 @@
 <img align="left" alt="Sklearn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="Jupyter-notebook" width="34px" src="https://cdn.thenewstack.io/media/2021/02/95231a39-jupyter.png" />
 
+<br />
+
 ![](https://komarev.com/ghpvc/?username=aryaman0098&color=blueviolet)
 
 [website]: https://aryaman0098.github.io/aryamanMishra/
