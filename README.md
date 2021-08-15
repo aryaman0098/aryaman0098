@@ -7,6 +7,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw, play badminton and do competetive programming in my free time😄
 
+<div align = center>
+
 ### Connect with me:
 
 [<img style = "padding-right:5px;" align="left" alt="aryaman0098.github.io/aryaman0098" width="22px" src="https://image.flaticon.com/icons/png/512/558/558593.png" />][website][<img style = "padding-right:5px;" align="left" alt="Aryaman | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter][<img style = "padding-right:5px;" align="left" alt="Aryaman | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin][<img style = "padding-right:5px;" align="left" alt="Aryaman | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" />][instagram][<img align="left" alt="Aryaman | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/145/145802.png" />][facebook]
@@ -34,7 +36,6 @@
 <br />
 <br />
 
-<div align = center>
   ![](https://komarev.com/ghpvc/?username=aryaman0098&color=blueviolet)
 </div>
 
