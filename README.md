@@ -1,6 +1,6 @@
 ### Hi there, I am [Aryaman Mishra][website] 👋
 
-### I'm a  tech enthusiast and a developer!!
+### A tech enthusiast and a developer!!
 
 - 🔭 Have a great interest in Machine Learning and Deep Learning!
 - 🌱 I’m currently learning about Full Stack Development in MERN. Also exploring the world of Cloud Computing.
