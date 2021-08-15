@@ -34,7 +34,9 @@
 <br />
 <br />
 
-<div align = center>![](https://komarev.com/ghpvc/?username=aryaman0098&color=blueviolet)</div>
+<div align = center>
+  ![](https://komarev.com/ghpvc/?username=aryaman0098&color=blueviolet)
+</div>
 
 [website]: https://aryaman0098.github.io/aryamanMishra/
 [twitter]: https://twitter.com/Aryaman0098
