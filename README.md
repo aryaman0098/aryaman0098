@@ -21,7 +21,7 @@
 <br />
 ### Languages and Tools:
 
-  ![HTML](https://img.shields.io/badge/HTML-14354C?style=for-the-badge&logo=HTML&logoColor=white)
+  ![Html](https://img.shields.io/badge/Html-14354C?style=for-the-badge&logo=Html&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-14354C?style=for-the-badge&logo=CSS&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-14354C?style=for-the-badge&logo=JavaScript&logoColor=white)
   ![React](https://img.shields.io/badge/React-14354C?style=for-the-badge&logo=React&logoColor=white)
