@@ -11,7 +11,12 @@
 
 ### Connect with me:
 
-[<img margin="5px" alt="aryaman0098.github.io/aryaman0098" width="22px" src="https://image.flaticon.com/icons/png/512/558/558593.png" />][website][<img margin="5px" alt="Aryaman | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter][<img margin="5px" alt="Aryaman | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin][<img margin="5px" alt="Aryaman | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" />][instagram][<img margin="5px" alt="Aryaman | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/145/145802.png" />][facebook]
+  [<img margin="5px" alt="aryaman0098.github.io/aryaman0098" width="22px" src="https://image.flaticon.com/icons/png/512/558/558593.png" />][website]
+  [<img margin="5px" alt="Aryaman | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
+  [<img margin="5px" alt="Aryaman | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+  [<img margin="5px" alt="Aryaman | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" />][instagram]
+  [<img margin="5px" alt="Aryaman | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/145/145802.png" />][facebook]
+  
 <br />
   
   
