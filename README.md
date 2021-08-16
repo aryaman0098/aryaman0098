@@ -33,7 +33,7 @@
 <img alt="Sklearn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" />
 <img alt="Jupyter-notebook" width="34px" src="https://cdn.thenewstack.io/media/2021/02/95231a39-jupyter.png" />
   
-![HTML](https://img.shields.io/badge/HTML-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-14354C?style=for-the-badge&logo=Kubernetes&logoColor=white)
 
 <br />
 <br />
