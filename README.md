@@ -22,7 +22,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-14354C?style=for-the-badge&logo=JavaScript&logoColor=white)
   ![React](https://img.shields.io/badge/React-14354C?style=for-the-badge&logo=React&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-14354C?style=for-the-badge&logo=Node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-14354C?style=for-the-badge&logo=Express&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-14354C?style=for-the-badge&logo=Express.js&logoColor=white)
   
 
 
