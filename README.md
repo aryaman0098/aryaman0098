@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img padding-right:"10px"  alt="aryaman0098.github.io/aryaman0098" width="22px" src="https://image.flaticon.com/icons/png/512/558/558593.png" />][website][<img padding-right:"10px"  alt="Aryaman | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter][<img padding-right:"10px"  alt="Aryaman | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin][<img padding-right:"10px"  alt="Aryaman | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" />][instagram][<img alt="Aryaman | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/145/145802.png" />][facebook]
+[<img padding-right="10px"  alt="aryaman0098.github.io/aryaman0098" width="22px" src="https://image.flaticon.com/icons/png/512/558/558593.png" />][website][<img padding-right="10px"  alt="Aryaman | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter][<img padding-right="10px"  alt="Aryaman | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin][<img padding-right="10px"  alt="Aryaman | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" />][instagram][<img alt="Aryaman | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/145/145802.png" />][facebook]
 <br />
 ### Languages and Tools:
 <img  alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
