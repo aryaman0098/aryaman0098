@@ -15,11 +15,8 @@
   [<img margin="10px" alt="Aryaman | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
   [<img margin="10px" alt="Aryaman | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
   [<img margin="10px" alt="Aryaman | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" />][instagram]
-  [<img margin="10px" alt="Aryaman | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/145/145802.png" />][facebook]
-  
+  [<img margin="10px" alt="Aryaman | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/145/145802.png" />][facebook]  
 <br />
-  
-  
 ### Languages and Tools:
 
   ![HTML](https://img.shields.io/badge/HTML-14354C?style=for-the-badge&logo=HTML&logoColor=white)
@@ -43,10 +40,7 @@
   ![Tensorflow](https://img.shields.io/badge/Tensorflow-14354C?style=for-the-badge&logo=Tensorflow&logoColor=white)
   ![Scikit](https://img.shields.io/badge/Scikit-14354C?style=for-the-badge&logo=Scikit&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/OpenCV-14354C?style=for-the-badge&logo=OpenCV&logoColor=white)
-
   
-
-
 <br />
 <br />
 
