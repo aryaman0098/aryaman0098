@@ -34,7 +34,7 @@
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=Python&logoColor=white)
   ![Keras](https://img.shields.io/badge/Keras-14354C?style=for-the-badge&logo=Keras&logoColor=white)
   ![Tensorflow](https://img.shields.io/badge/Tensorflow-14354C?style=for-the-badge&logo=Tensorflow&logoColor=white)
-  ![Sklearn](https://img.shields.io/badge/Sklearn-14354C?style=for-the-badge&logo=Sklearn&logoColor=white)
+  ![Sci-Kit](https://img.shields.io/badge/Sci-Kit-14354C?style=for-the-badge&logo=Sci-Kit&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/OpenCV-14354C?style=for-the-badge&logo=OpenCV&logoColor=white)
 
   
