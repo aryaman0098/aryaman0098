@@ -32,6 +32,7 @@
   ![MYSQL](https://img.shields.io/badge/MYSQL-14354C?style=for-the-badge&logo=MYSQL&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-14354C?style=for-the-badge&logo=Docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-14354C?style=for-the-badge&logo=Kubernetes&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-14354C?style=for-the-badge&logo=Windows&logoColor=white)
   ![macOS](https://img.shields.io/badge/macOS-14354C?style=for-the-badge&logo=macOS&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-14354C?style=for-the-badge&logo=Ubuntu&logoColor=white)
   ![LaTeX](https://img.shields.io/badge/LaTeX-14354C?style=for-the-badge&logo=LaTeX&logoColor=white)
