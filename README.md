@@ -25,6 +25,18 @@
   ![Express](https://img.shields.io/badge/Express-14354C?style=for-the-badge&logo=Express&logoColor=white)
   ![MongoDb](https://img.shields.io/badge/MongoDb-14354C?style=for-the-badge&logo=MongoDb&logoColor=white)
   ![MYSQL](https://img.shields.io/badge/MYSQL-14354C?style=for-the-badge&logo=MYSQL&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-14354C?style=for-the-badge&logo=Docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-14354C?style=for-the-badge&logo=Kubernetes&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-14354C?style=for-the-badge&logo=Ubuntu&logoColor=white)
+  ![C](https://img.shields.io/badge/C-14354C?style=for-the-badge&logo=C&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-14354C?style=for-the-badge&logo=C++&logoColor=white)
+  ![Qt](https://img.shields.io/badge/Qt-14354C?style=for-the-badge&logo=Qt&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=Python&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-14354C?style=for-the-badge&logo=Keras&logoColor=white)
+  ![Tensorflow](https://img.shields.io/badge/Tensorflow-14354C?style=for-the-badge&logo=Tensorflow&logoColor=white)
+  ![Sklearn](https://img.shields.io/badge/Sklearn-14354C?style=for-the-badge&logo=Sklearn&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-14354C?style=for-the-badge&logo=OpenCV&logoColor=white)
+
   
 
 
