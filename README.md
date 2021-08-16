@@ -32,6 +32,8 @@
 <img  alt="Keras" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />
 <img alt="Sklearn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" />
 <img alt="Jupyter-notebook" width="34px" src="https://cdn.thenewstack.io/media/2021/02/95231a39-jupyter.png" />
+  
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 <br />
 <br />
