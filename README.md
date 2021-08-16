@@ -24,6 +24,7 @@
   ![Node.js](https://img.shields.io/badge/Node.js-14354C?style=for-the-badge&logo=Node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-14354C?style=for-the-badge&logo=Express&logoColor=white)
   ![MongoDb](https://img.shields.io/badge/MongoDb-14354C?style=for-the-badge&logo=MongoDb&logoColor=white)
+  ![MYSQL](https://img.shields.io/badge/MYSQL-14354C?style=for-the-badge&logo=MYSQL&logoColor=white)
   
 
 
