@@ -30,6 +30,8 @@
   ![Flask](https://img.shields.io/badge/Flask-14354C?style=for-the-badge&logo=Flask&logoColor=white)
   ![MongoDb](https://img.shields.io/badge/MongoDb-14354C?style=for-the-badge&logo=MongoDb&logoColor=white)
   ![MYSQL](https://img.shields.io/badge/MYSQL-14354C?style=for-the-badge&logo=MYSQL&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-14354C?style=for-the-badge&logo=Git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-14354C?style=for-the-badge&logo=GitHub&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-14354C?style=for-the-badge&logo=Docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-14354C?style=for-the-badge&logo=Kubernetes&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-14354C?style=for-the-badge&logo=Windows&logoColor=white)
