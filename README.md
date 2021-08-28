@@ -50,8 +50,7 @@
 <br />
 <br />
   
-<!--     ![](https://komarev.com/ghpvc/?username=aryaman0098&color=blueviolet) -->
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=aryaman0098&show_icons=true&hide_border=true&theme=material-palenight)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=aryaman0098&show_icons=true&hide_border=true&theme=material-palenight)
   
 </div>
 
