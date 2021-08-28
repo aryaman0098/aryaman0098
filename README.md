@@ -51,8 +51,10 @@
   
   
 *** 
-  ![](https://github-readme-stats.vercel.app/api?username=aryaman0098&show_icons=true&theme=material-palenight&hide=issues,prs&hide_border=true)
   
+  ### GitHub Stats
+  
+  ![](https://github-readme-stats.vercel.app/api?username=aryaman0098&show_icons=true&theme=material-palenight&hide=issues,prs&hide_border=true)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=aryaman0098&show_icons=true&hide_border=true&theme=material-palenight)
   
 </div>
