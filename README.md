@@ -9,6 +9,8 @@
 
 <br />
 
+***
+
 <div align = center>
 
 ### Connect with me:
@@ -19,6 +21,9 @@
   [<img margin="50px" alt="Aryaman | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" />][instagram]&nbsp;&nbsp;
   [<img margin="50px" alt="Aryaman | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/145/145802.png" />][facebook]  
 <br />
+  
+  ***
+  
 ### Languages and Tools:
 
   ![Html](https://img.shields.io/badge/Html-14354C?style=for-the-badge&logo=Html&logoColor=white)
@@ -48,6 +53,7 @@
   ![OpenCV](https://img.shields.io/badge/OpenCV-14354C?style=for-the-badge&logo=OpenCV&logoColor=white)
   
 <br />
+  ***
 <br />
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=aryaman0098&show_icons=true&hide_border=true&theme=material-palenight)
