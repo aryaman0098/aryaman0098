@@ -53,9 +53,9 @@
   ![OpenCV](https://img.shields.io/badge/OpenCV-14354C?style=for-the-badge&logo=OpenCV&logoColor=white)
   
 <br />
-
-<br />
-***  
+  
+*** 
+  
   ![](https://github-readme-streak-stats.herokuapp.com/?user=aryaman0098&show_icons=true&hide_border=true&theme=material-palenight)
   
 </div>
