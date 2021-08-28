@@ -55,7 +55,7 @@
 <br />
   
 *** 
-  ! [MyGitHubLanguageStats(https://githubreadmestats.vercel.app/api/toplangs/username=aryaman0098&theme=onedark&hide=css,html&layout=compact&border_radius=10&langs_count=4&exclude_repo=cp-templates)
+  ![](https://githubreadmestats.vercel.app/api/toplangs/username=aryaman0098&theme=onedark&hide=css,html&layout=compact&border_radius=10&langs_count=4&exclude_repo=cp-templates)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=aryaman0098&show_icons=true&hide_border=true&theme=material-palenight)
   
 </div>
