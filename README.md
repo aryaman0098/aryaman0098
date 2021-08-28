@@ -50,7 +50,7 @@
 <br />
 <br />
   
-   <div style = "display: flex; flex-direction: column;">
+   <div style = "display: flex;">
     ![](https://komarev.com/ghpvc/?username=aryaman0098&color=blueviolet)
     ![](https://github-readme-streak-stats.herokuapp.com/?user=aryaman0098&show_icons=true&hide_border=true&theme=material-palenight)
   </div>
