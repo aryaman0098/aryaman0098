@@ -7,8 +7,6 @@
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw, play badminton and do competetive programming in my free time😄
 
-<br />
-
 ***
 
 <div align = center>
