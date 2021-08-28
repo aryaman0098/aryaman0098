@@ -20,7 +20,6 @@
   [<img margin="50px" alt="Aryaman | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]&nbsp;&nbsp;
   [<img margin="50px" alt="Aryaman | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" />][instagram]&nbsp;&nbsp;
   [<img margin="50px" alt="Aryaman | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/145/145802.png" />][facebook]  
-<br />
   
 ***
   
@@ -52,7 +51,6 @@
   ![Scikit](https://img.shields.io/badge/Scikit-14354C?style=for-the-badge&logo=Scikit&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/OpenCV-14354C?style=for-the-badge&logo=OpenCV&logoColor=white)
   
-<br />
   
 *** 
   ![](https://github-readme-stats.vercel.app/api?username=aryaman0098&show_icons=true&theme=material-palenight&hide=issues,prs&hide_border=true)
