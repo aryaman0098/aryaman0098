@@ -61,7 +61,7 @@
   
   ### Top Languages
   
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?\username=aryaman0098&theme=onedark&hide=css,html&layout=compact&border_radius=10&langs_count=4&exclude_repo=cp-templates)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaman0098&theme=onedark&hide=css,html&layout=compact&border_radius=10&langs_count=4&exclude_repo=cp-templates)
   
 </div>
 
