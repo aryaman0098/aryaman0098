@@ -14,7 +14,7 @@
 ### Connect with me:
 
   [<img margin="50px" alt="aryaman0098.github.io/aryaman0098" width="22px" src="https://image.flaticon.com/icons/png/512/975/975645.png" />][website]&nbsp;&nbsp;
-  [<img margin="50px" alt="Aryaman | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png" />][linkedin]&nbsp;&nbsp;
+  [<img margin="50px" alt="Aryaman | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1649531660~hmac=8c8b7c0fa305d78c09955135dacbadfc" />][linkedin]&nbsp;&nbsp;
   [<img margin="50px" alt="Aryaman | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" />][instagram]&nbsp;&nbsp;
   [<img margin="50px" alt="Aryaman | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/145/145802.png" />][facebook]  
   
