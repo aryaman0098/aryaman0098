@@ -13,10 +13,10 @@
 
 ### Connect with me:
 
-  [<img margin="50px" alt="aryaman0098.github.io/aryaman0098" width="22px" src="https://image.flaticon.com/icons/png/512/975/975645.png" />][website]&nbsp;&nbsp;
+  [<img margin="50px" alt="aryaman0098.github.io/aryaman0098" width="22px" src="https://cdn-icons.flaticon.com/png/128/1864/premium/1864987.png?token=exp=1649531901~hmac=d53e3d92b927514df1147fcc6e1d5564" />][website]&nbsp;&nbsp;
   [<img margin="50px" alt="Aryaman | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1649531660~hmac=8c8b7c0fa305d78c09955135dacbadfc" />][linkedin]&nbsp;&nbsp;
   [<img margin="50px" alt="Aryaman | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" />][instagram]&nbsp;&nbsp;
-  [<img margin="50px" alt="Aryaman | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/145/145802.png" />][facebook]  
+  [<img margin="50px" alt="Aryaman | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/128/145/145802.png" />][facebook]  
   
 ***
   
