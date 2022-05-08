@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-  [<img margin="50px" alt="aryaman0098.github.io/aryaman0098" width="22px" src="https://cdn-icons.flaticon.com/png/128/1864/premium/1864987.png?token=exp=1649531901~hmac=d53e3d92b927514df1147fcc6e1d5564" />][website]&nbsp;&nbsp;
+  [<img margin="50px" alt="aryaman0098.github.io/aryaman0098" width="22px" src="https://cdn-icons-png.flaticon.com/512/1231/1231223.png" />][website]&nbsp;&nbsp;
   [<img margin="50px" alt="Aryaman | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]&nbsp;&nbsp;
   [<img margin="50px" alt="Aryaman | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" />][instagram]&nbsp;&nbsp;
   [<img margin="50px" alt="Aryaman | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/128/145/145802.png" />][facebook]  
