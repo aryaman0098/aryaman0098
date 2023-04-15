@@ -2,9 +2,8 @@
 
 ### A tech enthusiast and a developer!!
 
-- 🔭 Have a great interest in Machine Learning and Deep Learning!
-- 🌱 I’m currently learning about Full Stack Development in MERN. Also exploring the world of Cloud Computing.
-- 🥅 Goals: Contribute more to Open Source projects
+- 🔭 Have a great interest in Software developement and engineering!
+- 🌱 Exploring the world of Cloud Computing.
 - ⚡ Fun fact: I love to draw, play badminton and do competetive programming in my free time😄
 
 ***
