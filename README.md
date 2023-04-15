@@ -44,7 +44,7 @@
   ![C++](https://img.shields.io/badge/C++-14354C?style=for-the-badge&logo=C++&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=Java&logoColor=white)
   ![Qt](https://img.shields.io/badge/Qt-14354C?style=for-the-badge&logo=Qt&logoColor=white)
-  ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-14354C?style=for-the-badge&logo=Html&logoColor=white)
+  ![JetpackCompose](https://img.shields.io/badge/JetpackCompose-14354C?style=for-the-badge&logo=Html&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/Kotlin-14354C?style=for-the-badge&logo=Kotlin&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=Python&logoColor=white)
   ![Keras](https://img.shields.io/badge/Keras-14354C?style=for-the-badge&logo=Keras&logoColor=white)
